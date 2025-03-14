@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 손명규! 👋
+안녕하세요! 1학년 2반 7번 손명규입니다. 저는 센텀중학교를 졸업하고 지금은 과학영재학교 대구과학고등학교를 다니고 있습니다. 메이커 김승철 선생님 사랑해요!!
 <!--
 **sonmango/sonmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
